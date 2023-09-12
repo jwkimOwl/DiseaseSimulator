@@ -1,6 +1,6 @@
 # DiseaseSimulator
-### Simulator for the spread of epidemic disease (Python)
-Used Library: CustomTkinter, Matplotlib, Numpy, Matplotlib
+### Simulator for the spread of epidemic disease
+Library: CustomTkinter, Matplotlib, Numpy, Matplotlib
 
 First page:
 
@@ -11,6 +11,7 @@ First page:
 - 3rd slider : Death rate
 - 4th slider : Relapse rate
 - 5th slider : Contagious period
+- Grid : Click to set initially infected persons
 
 Second page:
 
